@@ -5,7 +5,7 @@
 - This project is an intelligent and responsive chatbot developed using the Gemini API. It allows users to engage in real-time conversations where the bot understands and replies to queries with context-aware responses. The chatbot leverages the powerful capabilities of Gemini to deliver human-like interactions, making it suitable for various use cases like customer support, FAQs, and personal assistance. The front end is built with a clean and modern UI that adapts well to different screen sizes, ensuring a smooth experience across devices. This project demonstrates seamless API integration, error handling, and interactive design for an engaging user experience.
 ## Project Screenshot
 ![Screenshot of chat bot)](https://github.com/user-attachments/assets/0fe37fb5-6309-467a-99ee-26988738fe55)
-## Features
+## 🎯 Features
 - Real-time Conversation – Handles user queries and responds instantly using the Gemini API.
 
 - Natural Language Understanding – Provides intelligent, context-aware replies.
