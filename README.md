@@ -31,7 +31,7 @@
 - STEP 2 : After Clicking the button you will be redirected to the below page and click " Create API key "
 ![Create API KEY screenshot](https://github.com/user-attachments/assets/3e137dfa-9f45-4b20-8c97-529408a5f944)
 - STEP 3 : Next A Pop up will appear and click with default option and proceed.Your API key will be genertrated in few minutes
-
+- STEP 4 : After getting API Key Go to "Chatbot.js "  file and find  " const API_KEY " and replace your API key with the text in it. Do not remove double quots "" place your API key inbetween quots
 ## 👦 About Me
 Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills to create meaningful digital experiences.
 
