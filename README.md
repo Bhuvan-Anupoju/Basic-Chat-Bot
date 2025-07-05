@@ -12,7 +12,7 @@
 
 - Clean UI Design – Simple and modern interface for easy interaction.
 
--Responsive Layout – Fully functional across mobile, tablet, and desktop devices.
+- Responsive Layout – Fully functional across mobile, tablet, and desktop devices.
 
 - API Integration – Seamless communication with the Gemini API for processing user input.
 
