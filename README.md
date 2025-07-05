@@ -21,6 +21,16 @@
 - Customizable Logic – Easy to extend and modify for different use cases (e.g., FAQ bot, assistant).
 
 - Lightweight and Fast – Optimized for performance with minimal dependencies.
+### Note : You have to replace an API Key in the code to make the chatbot functional. Follow the below steps to get API KEY
+## How To Get API Key
+
+- STEP 1 : Visti Google AI for Developers Website and Signup/SignIn(If you have an account)
+     -  Link : [Google AI for Developers](https://ai.google.dev/gemini-api/docs)
+- Visit This Page and Click " Get API KEY "
+![Get API Key screenshot](https://github.com/user-attachments/assets/31b12dd9-8f05-4ac6-b4bc-3b79a4ba6cb7)
+- STEP 2 : After Clicking the button you will be redirected to the below page and click " Create API key "
+![Create API KEY screenshot](https://github.com/user-attachments/assets/3e137dfa-9f45-4b20-8c97-529408a5f944)
+- STEP 3 : Next A Pop up will appear and click with default option and proceed.Your API key will be genertrated in few minutes
 
 ## 👦 About Me
 Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills to create meaningful digital experiences.
@@ -29,4 +39,5 @@ Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS
 ## 🔗 Contact me on
 - [LinkedIn](https://www.linkedin.com/in/bhuvan-anupoju/)
  - [My Portfolio](https://bhuvan-anupoju.github.io/Bhuvan.dev/)
+
 
